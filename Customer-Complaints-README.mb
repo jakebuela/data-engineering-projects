@@ -2,3 +2,12 @@
 
 This project starts from an Excel file used by bank
 and turns it into a PostgreSQL database and Power BI dashboard.
+
+## Tools
+- Excel
+- PostgreSQL
+- SQL
+- Power BI
+
+## Goal
+Analyze complaint volume, resolution time, and problem types.
