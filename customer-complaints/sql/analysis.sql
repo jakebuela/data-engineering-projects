@@ -1,4 +1,4 @@
-SQL - Codes used:
+Working SQL Codes used:
 
 -- Total complaints
 SELECT COUNT(*) 
