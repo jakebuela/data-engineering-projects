@@ -11,3 +11,13 @@ and turns it into a PostgreSQL database and Power BI dashboard.
 
 ## Goal
 Analyze complaint volume, resolution time, and problem types.
+
+## What I did
+- Ingested raw Excel into PostgreSQL
+- Performed SQL analysis
+- Built Power BI dashboard
+
+## Key Insights
+- Top products generate most complaints
+- Some states have significantly higher volume
+- Not all complaints are resolved on time
