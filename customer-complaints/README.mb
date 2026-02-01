@@ -1,4 +1,4 @@
-# Customer Complaints Data Pipeline
+# Coffee Shop Data Pipeline
 
 This project starts from an Excel file used by bank
 and turns it into a PostgreSQL database and Power BI dashboard.
